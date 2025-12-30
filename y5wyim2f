@@ -1,0 +1,11 @@
+# Sanity Configuration
+# Ottieni questi valori da https://www.sanity.io/manage dopo aver creato il progetto
+NEXT_PUBLIC_SANITY_PROJECT_ID=your_project_id_here
+NEXT_PUBLIC_SANITY_DATASET=production
+NEXT_PUBLIC_SANITY_API_VERSION=2024-01-01
+
+# Sanity Studio (opzionale per preview)
+SANITY_API_TOKEN=your_token_here
+
+# Vercel Analytics (opzionale)
+# NEXT_PUBLIC_VERCEL_ANALYTICS_ID=your_analytics_id
