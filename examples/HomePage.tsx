@@ -21,7 +21,8 @@ import {
 export default function HomePage() {
   return (
     <>
-      
+      <Navbar />
+
       <main>
         <Hero />
         <FeaturedIn />
@@ -34,6 +35,7 @@ export default function HomePage() {
         <ContactForm />
       </main>
 
+      <Footer />
     </>
   )
 }

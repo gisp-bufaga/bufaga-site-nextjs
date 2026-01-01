@@ -3,7 +3,7 @@ import { getLandingPage } from '@/lib/sanity'
 import Hero from '@/components/marketing/Hero'
 import CTA from '@/components/marketing/CTA'
 import Form from '@/components/marketing/Form'
-import Footer from '@/components/Footer'
+import Footer from '@/components/Footer2'
 
 interface PageProps {
   params: Promise<{

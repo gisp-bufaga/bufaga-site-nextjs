@@ -1,4 +1,4 @@
-import Footer from '@/components/Footer'
+import Footer from '@/components/Footer2'
 import Image from 'next/image'
 
 export const metadata = {

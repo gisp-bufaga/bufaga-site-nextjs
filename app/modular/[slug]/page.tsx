@@ -6,7 +6,7 @@ import Form from '@/components/marketing/Form'
 import Testimonials from '@/components/marketing/testimonials'
 import Features from '@/components/marketing/features'
 import Stats from '@/components/marketing/stats'
-import Footer from '@/components/Footer'
+import Footer from '@/components/Footer2'
 
 async function getModularLandingPage(slug: string) {
   return client.fetch(

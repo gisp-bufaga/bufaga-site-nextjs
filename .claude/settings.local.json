@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(if not exist \"c:\\\\Users\\\\Giusp\\\\Documents\\\\GitHub\\\\bufaga-site-nextjs\\\\public\" mkdir \"c:\\\\Users\\\\Giusp\\\\Documents\\\\GitHub\\\\bufaga-site-nextjs\\\\public\")",
+      "Bash(copy:*)"
+    ]
+  }
+}
